@@ -1,0 +1,10 @@
+{
+	"name": "jarmuz_garden",
+	"main": "jarmuz_garden_main.js",
+	"scripts": {
+		"start": "node jarmuz_garden_main.js"
+	},
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
