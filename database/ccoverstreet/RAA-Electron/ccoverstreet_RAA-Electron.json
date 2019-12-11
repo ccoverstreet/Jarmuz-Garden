@@ -1,0 +1,7 @@
+{
+	"name": "ccoverstreet/RAA-Electron",
+	"version": 1.0,
+	"scriptname_unix": "raa-electron",
+	"sourcerepo": "https://github.com/ccoverstreet/RAA-Electron",
+	"build_directions": "npm run first_install"	
+}

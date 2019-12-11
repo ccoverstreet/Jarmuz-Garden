@@ -3,5 +3,5 @@
 	"version": 1,
 	"scriptname_unix": "jarmuz-sqlviewer",
 	"sourcerepo": "https://github.com/ccoverstreet/Jarmuz-Sql-Viewer",
-	"build": "echo No build steps needed"	
+	"build_directions": "echo No build steps needed"	
 }
