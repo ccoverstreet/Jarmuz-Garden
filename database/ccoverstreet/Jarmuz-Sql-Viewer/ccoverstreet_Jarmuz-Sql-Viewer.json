@@ -1,7 +1,0 @@
-{
-	"name": "ccoverstreet/Jarmuz-Sql-Viewer",
-	"version": 1,
-	"scriptname_unix": "jarmuz-sqlviewer",
-	"sourcerepo": "https://github.com/ccoverstreet/Jarmuz-Sql-Viewer",
-	"build_directions": "echo No build steps needed"	
-}
