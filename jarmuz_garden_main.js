@@ -1,7 +1,7 @@
 var express = require('express');
 var server = express();
 var port = 9420;
-const root_dir = "/home/coverstreet/Coding/Garden"
+const root_dir = "/home/coverstreet/Coding/JARMUZ/Garden"
 const data_root = root_dir + "/database";
 
 var fs = require('fs');
