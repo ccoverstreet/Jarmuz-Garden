@@ -1,1 +1,2 @@
-start PATH_TO_JARMUZ_PACKAGE\CIS.exe
+@echo off
+PATH_TO_JARMUZ_PACKAGE\CIS.exe

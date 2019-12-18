@@ -2,6 +2,7 @@
 	"name": "ccoverstreet/RAA-Mimir",
 	"version": 1.0,
 	"scriptname_unix": "raa-mimir",
+	"scriptname_windows": "raa-mimir.bat",
 	"sourcerepo": "https://github.com/ccoverstreet/RAA-Mimir",
 	"build_directions": "make"
 }

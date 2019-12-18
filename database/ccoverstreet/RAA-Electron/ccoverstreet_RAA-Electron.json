@@ -2,6 +2,7 @@
 	"name": "ccoverstreet/RAA-Electron",
 	"version": 1.0,
 	"scriptname_unix": "raa-electron",
+	"scriptname_windows": "raa-electron.bat",
 	"sourcerepo": "https://github.com/ccoverstreet/RAA-Electron",
 	"build_directions": "npm run first_install"	
 }

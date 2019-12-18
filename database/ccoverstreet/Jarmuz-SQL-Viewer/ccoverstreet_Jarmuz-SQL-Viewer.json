@@ -2,6 +2,7 @@
 	"name": "ccoverstreet/Jarmuz-SQL-Viewer",
 	"version": 1,
 	"scriptname_unix": "jarmuz-sqlviewer",
+	"scriptname_windows": "jarmuz-sqlviewer.bat",
 	"sourcerepo": "https://github.com/ccoverstreet/Jarmuz-SQL-Viewer",
 	"build_directions": "echo No build steps needed"	
 }
