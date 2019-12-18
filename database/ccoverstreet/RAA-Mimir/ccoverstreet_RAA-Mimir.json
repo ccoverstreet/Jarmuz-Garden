@@ -3,5 +3,5 @@
 	"version": 1.0,
 	"scriptname_unix": "raa-mimir",
 	"sourcerepo": "https://github.com/ccoverstreet/RAA-Mimir",
-	"build": "make"
+	"build_directions": "make"
 }

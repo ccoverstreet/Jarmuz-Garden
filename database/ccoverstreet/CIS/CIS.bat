@@ -1,0 +1,1 @@
+start PATH_TO_JARMUZ_PACKAGE\CIS.exe
