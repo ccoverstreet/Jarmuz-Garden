@@ -4,5 +4,5 @@
 	"scriptname_unix": "jarmuz-plot",
 	"scriptname_windows": "jarmuz-plot.bat",
 	"sourcerepo": "https://github.com/ccoverstreet/Jarmuz-Plot",
-	"build_directions": ""
+	"build_directions": "echo"
 }
