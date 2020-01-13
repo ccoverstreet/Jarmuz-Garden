@@ -11,6 +11,7 @@ var { spawn } = require("child_process");
 var Zip = require("node-zip");
 
 function parse_fetchprogramdata_input(req) {
+	console.log(req.query.programname);
 	var split_query = req.query.programname.split("/"); // Splitting query by slashes
 
 	var verified_path = data_root; // Current path that is proven to exist
@@ -19,7 +20,6 @@ function parse_fetchprogramdata_input(req) {
 	for (var i = 0; i < split_query.length; i++) {
 		if (fs.existsSync(verified_path + "/" + split_query[i])) {
 			verified_path += "/" + split_query[i];
-			console.log(verified_path);
 		} else {
 			return -1;
 		}
@@ -59,7 +59,6 @@ server.get("/hello_world", function(req, res) {
 })
 
 server.get("/fetchprogramdata", function(req, res) {
-	console.log(req.query.programname);
 	x = parse_fetchprogramdata_input(req);
 	if (x == -1) {
 		res.sendStatus(404);
