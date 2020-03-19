@@ -1,6 +1,8 @@
 # Jarmuz-Garden
 ## Server-side component of Jarmuz
 
+# DEPRECATED, JARMUZ NO LONGER REQUIRES THIS.
+# JARMUZ NOW REQUIRES INDIVIDUAL REPOSITORIES TO CONTAIN A jarmuzpackage.json file. MORE INFO ON ccoverstreet/Jarmuz
 
 Jarmuz Garden is the server portion of Jarmuz that handles package requests and returns packages containing the program json metadata and start scripts.
 
